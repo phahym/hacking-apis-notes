@@ -1,0 +1,4 @@
+# Exclude confidential Obsidian configuration folders
+.obsidian/
+.space/
+.makemd/
